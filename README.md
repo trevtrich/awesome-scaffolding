@@ -32,15 +32,21 @@ $ npm test
 
 ## Repositories
 
-### Within a Project
+### File
 * [hygen](https://github.com/jondot/hygen)
 * [plop](https://github.com/plopjs/plop)
 
-### Whole Project
+### Project
 * [form8ion](https://github.com/form8ion/meta)
 * [beemo][beemo-link]
+* [Lass](https://github.com/lassjs/lass)
 * [Nimbus](https://github.com/airbnb/nimbus) -
 Airbnb application of [beemo][beemo-link]
+* [Yeoman](https://github.com/yeoman/generator)
+
+### Infrastructure
+* [Chef](https://github.com/chef/chef)
+* [Puppet](https://github.com/puppetlabs/puppet)
 
 [awesome-badge-link]: https://awesome.re/badge-flat2.svg
 [beemo-link]: https://github.com/beemojs/beemo
