@@ -1,0 +1,28 @@
+{
+  "name": "awesome-scaffolding",
+  "description": "list to keep track of project scaffolding work",
+  "license": "MIT",
+  "private": false,
+  "repository": "trevtrich/awesome-scaffolding",
+  "bugs": "https://github.com/trevtrich/awesome-scaffolding/issues",
+  "homepage": "https://github.com/trevtrich/awesome-scaffolding#readme",
+  "author": "Trevor Richardson <npm@trevorrichardson.me> (trevorrichardson.me)",
+  "scripts": {
+    "test": "npm-run-all --print-label --parallel lint:*",
+    "lint:lockfile": "lockfile-lint --path package-lock.json --type npm --validate-https --allowed-hosts npm",
+    "lint:md": "remark . --frail",
+    "lint:sensitive": "ban",
+    "lint:travis": "travis-lint .travis.yml"
+  },
+  "devDependencies": {
+    "ban-sensitive-files": "1.9.2",
+    "commitlint-config-travi": "1.3.6",
+    "cz-conventional-changelog": "3.0.2",
+    "husky": "4.2.1",
+    "lockfile-lint": "3.0.8",
+    "npm-run-all": "4.1.5",
+    "remark-cli": "7.0.1",
+    "remark-preset-lint-travi": "1.3.0",
+    "travis-lint": "1.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: awesome-scaffolding
+  description: list to keep track of project scaffolding work
+  homepage: 'https://github.com/trevtrich/awesome-scaffolding#readme'
+  private: false

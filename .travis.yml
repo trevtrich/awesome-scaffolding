@@ -1,0 +1,5 @@
+version: ~> 1.0
+notifications:
+  email: false
+import:
+  - source: 'form8ion/.travis-ci:node.yml'
