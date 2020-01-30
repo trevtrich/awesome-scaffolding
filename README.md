@@ -39,10 +39,12 @@ $ npm test
 ### Project
 * [form8ion](https://github.com/form8ion/meta)
 * [beemo][beemo-link]
+* [generator-node-bahmutov](https://github.com/bahmutov/generator-node-bahmutov) 
+- [Yeoman][yeoman-link] generator for Node.js
 * [Lass](https://github.com/lassjs/lass)
 * [Nimbus](https://github.com/airbnb/nimbus) -
 Airbnb application of [beemo][beemo-link]
-* [Yeoman](https://github.com/yeoman/generator)
+* [Yeoman][yeoman-link]
 
 ### Infrastructure
 * [Chef](https://github.com/chef/chef)
@@ -60,3 +62,4 @@ Airbnb application of [beemo][beemo-link]
 [commitizen-badge]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [PRs-link]: http://makeapullrequest.com
 [PRs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+[yeoman-link]: https://github.com/yeoman/generator
