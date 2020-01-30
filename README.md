@@ -39,8 +39,8 @@ $ npm test
 ### Project
 * [form8ion](https://github.com/form8ion/meta)
 * [beemo][beemo-link]
-* [generator-node-bahmutov](https://github.com/bahmutov/generator-node-bahmutov) 
-- [Yeoman][yeoman-link] generator for Node.js
+* [generator-node-bahmutov](https://github.com/bahmutov/generator-node-bahmutov) - 
+[Yeoman][yeoman-link] generator for Node.js
 * [Lass](https://github.com/lassjs/lass)
 * [Nimbus](https://github.com/airbnb/nimbus) -
 Airbnb application of [beemo][beemo-link]
