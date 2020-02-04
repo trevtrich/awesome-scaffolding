@@ -42,6 +42,7 @@ $ npm test
 * [generator-node-bahmutov](https://github.com/bahmutov/generator-node-bahmutov) - 
 [Yeoman][yeoman-link] generator for Node.js
 * [Lass](https://github.com/lassjs/lass)
+* [Meow](https://github.com/sindresorhus/meow) - sindresorhus CLI helpter
 * [Nimbus](https://github.com/airbnb/nimbus) -
 Airbnb application of [beemo][beemo-link]
 * [Yeoman][yeoman-link]
