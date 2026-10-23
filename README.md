@@ -57,6 +57,7 @@ $ npm test
 * [Nimbus](https://github.com/airbnb/nimbus) -
   Airbnb application of [beemo][beemo-link]
 * [Yeoman][yeoman-link]
+* [Flisk](https://github.com/flisk-sh/flisk) - generates and runs your whole tech stack from one command
 
 ### Infrastructure
 
